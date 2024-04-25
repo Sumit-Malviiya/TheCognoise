@@ -145,3 +145,19 @@ jQuery(document).ready(function( $ ) {
 // custom code
 
 });
+
+/* var resultholder = document.getElementById("popupid")
+
+popupid.style.display = "none";
+
+function toggelrh() {
+  if (rh.style.display = "none") {
+    rh.style.display = "block";
+  }
+}
+
+function removerh() {
+  if (rh.style.display = "block") {
+    rh.style.display = "none";
+  }
+} */
